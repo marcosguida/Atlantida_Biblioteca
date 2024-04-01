@@ -20,7 +20,7 @@ O Projeto Atlântida visa proporcionar uma experiência de qualidade para os usu
 # Como Contribuir
 Se você é um entusiasta da literatura ou um desenvolvedor interessado em contribuir para o Projeto Atlântida, há várias maneiras de participar:
 
- >! Feedback: Valorizamos seu feedback e sugestões para melhorar continuamente o projeto.
+ >! Feedback: Valorizamos feedback e sugestões para melhorar continuamente o projeto.
 >
  >! Desenvolvimento: O código-fonte do Projeto Atlântida está disponível publicamente neste repositório. Sinta-se à vontade para examinar, sugerir melhorias ou enviar pull requests.
 >
